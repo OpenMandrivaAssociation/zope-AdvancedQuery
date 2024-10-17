@@ -14,7 +14,7 @@ Release:	%{release}
 Summary:    Better search function
 License:    GPL
 Group:      System/Servers
-URL:        http://www.dieter.handshake.de/pyprojects/zope/#AdvancedQuery
+URL:        https://www.dieter.handshake.de/pyprojects/zope/#AdvancedQuery
 Source:     http://www.dieter.handshake.de/pyprojects/zope/AdvancedQuery.tgz
 Requires:   zope >= %{zope_minver}
 BuildArch:  noarch
